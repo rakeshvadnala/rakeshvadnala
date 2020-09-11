@@ -29,6 +29,10 @@
 
 <br />
 
+[website]: https://rakeshvadnala.online
+[twitter]: https://twitter.com/rakeshvadnala
+[instagram]: https://instagram.com/rakeshvadnala
+[linkedin]: https://linkedin.com/in/rakeshvadnala
    
 
 - 📝 [Rakesh Vadnala Blog] http://rakeshvadnala.github.io/)
