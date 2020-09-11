@@ -13,9 +13,4 @@
 
 <h4 align="center">life always offers you a second chance, Don't lose it</h4>
 
-<p align="left">
-<a href="https://www.sololearn.com/profile/1170667" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/326px-SoloLearn_logo.svg.png" alt="rakeshv" height="40" width="40" /></a>
-</p>
-
-
-- 📝 [Rakesh Vadnala Blog](http://rakeshvadnala.github.io/)
+- 📝 [Rakesh Vadnala Blog] http://rakeshvadnala.github.io/)
