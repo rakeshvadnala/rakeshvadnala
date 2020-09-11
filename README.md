@@ -6,11 +6,11 @@
 <img align="right" src="https://avatars.sololearn.com/8acbfd1a-9689-4d80-90ee-6a73d8e23dee.jpg" height="200" width="200" >
 
 <h3 align="left"> Language & Skills </h3>
-- [<img align="left" alt="Python" width="26px" src="https://www.sololearn.com/Icons/Courses/1073.png"/>][Python]
-- [<img align="left" alt="C" width="26px" src="https://www.sololearn.com/Icons/Courses/1089.png"/>][C]
-- [<img align="left" alt="Java" width="26px" src="https://www.sololearn.com/Icons/Courses/1068.png"/>][Java]
-- [<img align="left" alt="Java" width="26px" src="https://www.sololearn.com/Icons/Courses/1060.png"/>][SQL]
-- [<img align="left" alt="HTML" width="26px" src="https://www.sololearn.com/Icons/Courses/1014.png"/>][HTML]
+[<img align="left" alt="Python" width="26px" src="https://www.sololearn.com/Icons/Courses/1073.png"/>][Python]
+[<img align="left" alt="C" width="26px" src="https://www.sololearn.com/Icons/Courses/1089.png"/>][C]
+[<img align="left" alt="Java" width="26px" src="https://www.sololearn.com/Icons/Courses/1068.png"/>][Java]
+[<img align="left" alt="Java" width="26px" src="https://www.sololearn.com/Icons/Courses/1060.png"/>][SQL]
+[<img align="left" alt="HTML" width="26px" src="https://www.sololearn.com/Icons/Courses/1014.png"/>][HTML]
 
 - Pentester 
 - Nmap
