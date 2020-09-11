@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="Left"> Hi there 👋 </h1>
 <p align="centre"> I am Rakesh Vadnala. Rakesh had Strong Hands-on experience in Arduino and IoT Projects.</p>
 
    <p align="left">Rakesh experienced in Operating Systems as Linux, Windows(Client and Server).</br> Experienced with Windows Server 2016 (Active Directory Domain Services, Group Policies, DNS, IIS, DFS, WDS, Hyper-V, and DHCP). Experienced with Cent OS 7 (Administration).
@@ -14,7 +14,7 @@
 <h4 align="center">life always offers you a second chance, Don't lose it</h4>
 
 <p align="left">
-<a href="https://www.sololearn.com/profile/1170667" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-yrobn&psig=AOvVaw0XrJ-F18ZrRvrzDjSJGFo8&ust=1599897360588000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi2iaHQ4OsCFQAAAAAdAAAAABAN" alt="rakeshv" height="40" width="40" /></a>
+<a href="https://www.sololearn.com/profile/1170667" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/326px-SoloLearn_logo.svg.png" alt="rakeshv" height="40" width="40" /></a>
 </p>
 
 
