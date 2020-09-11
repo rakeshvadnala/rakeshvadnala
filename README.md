@@ -10,13 +10,14 @@
 - C
 - Java
 - SQL Server(SSMS)
--- Pentester 
--- Nmap
--- Brupsuite
--- Maltego
--- WireShark
+- Pentester 
+- Nmap
+-Brupsuite
+- Maltego
+- WireShark
 
 
 <h4 align="Left">life always offers you a second chance, Don't lose it</h4>
+<img src="http://www.hackthebox.eu/badge/image/146863" alt="Hack The Box">
 
 - 📝 [Rakesh Vadnala Blog] http://rakeshvadnala.github.io/)
