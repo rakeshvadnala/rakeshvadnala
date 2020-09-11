@@ -11,19 +11,25 @@
 [<img align="left" alt="Java" width="22px" src="https://www.sololearn.com/Icons/Courses/1068.png" />][Java]
 [<img align="left" alt="Java" width="22px" src="https://www.sololearn.com/Icons/Courses/1060.png" />][SQL]
 [<img align="left" alt="HTML" width="22px" src="https://www.sololearn.com/Icons/Courses/1014.png" />][HTML]
-<br />
+[<img align="left" alt="EH" width="22px" src="https://icon2.cleanpng.com/20180816/rcp/kisspng-security-hacker-computer-security-certified-ethica-download-geek-app-hacking-apk-for-android-android-5b757834817415.8353934415344251405303.jpg" />][EH]
+[<img align="left" alt="Nmap" width="22px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2016/03/nmap.png" />][Nmap]
+[<img align="left" alt="Burpsuite" width="22px" src="https://icons.iconarchive.com/icons/goescat/macaron/256/burp-suite-icon.png" />][BS]
+[<img align="left" alt="Maltego" width="22px" src="https://www.maltego.com/img/Social%20Profile%20Pic@4x.png" />][MT]
+[<img align="left" alt="wireshark" width="22px" src="http://www.myiconfinder.com/uploads/iconsets/256-256-42f719a7f3f4ffb7472e66df0765eafd.png" />][WS]
 
-- Pentester 
-- Nmap
-- Brupsuite
-- Maltego
-- WireShark
+<br />
 
 [Python]: https://storage.googleapis.com/programminghub/certificate%2F1598690435715.jpg
 [C]: https://www.sololearn.com/Certificate/1089-1170667/jpg
 [Java]: https://www.sololearn.com/Certificate/1068-1170667/jpg
 [SQL]: https://www.sololearn.com/Certificate/1060-1170667/jpg
 [HTML]: https://www.sololearn.com/Certificate/1014-1170667/jpg
+[EH]: https://storage.googleapis.com/programminghub/certificate%2F1595704979003.jpg
+[Nmap]: https://rakeshvadnala.online
+[BS]: https://rakeshvadnala.online
+[MT]: https://rakeshvadnala.online
+[WS]: https://rakeshvadnala.online
+
 
 <h4 align="Left">life always offers you a second chance, Don't lose it</h4>
 
