@@ -5,19 +5,25 @@
    </p>
 <img align="right" src="https://avatars.sololearn.com/8acbfd1a-9689-4d80-90ee-6a73d8e23dee.jpg" height="200" width="200" >
 
-<h3 align="left"> Language & Skills </h3>
+### Language & Skills:
 [<img align="left" alt="Python" width="22px" src="https://www.sololearn.com/Icons/Courses/1073.png" />][Python]
 [<img align="left" alt="C" width="22px" src="https://www.sololearn.com/Icons/Courses/1089.png" />][C]
 [<img align="left" alt="Java" width="22px" src="https://www.sololearn.com/Icons/Courses/1068.png" />][Java]
 [<img align="left" alt="Java" width="22px" src="https://www.sololearn.com/Icons/Courses/1060.png" />][SQL]
 [<img align="left" alt="HTML" width="22px" src="https://www.sololearn.com/Icons/Courses/1014.png" />][HTML]
- <br />
+<br />
 
 - Pentester 
 - Nmap
--Brupsuite
+- Brupsuite
 - Maltego
 - WireShark
+
+[Python]: https://storage.googleapis.com/programminghub/certificate%2F1598690435715.jpg
+[C]: https://www.sololearn.com/Certificate/1089-1170667/jpg
+[Java]: https://www.sololearn.com/Certificate/1068-1170667/jpg
+[SQL]: https://www.sololearn.com/Certificate/1060-1170667/jpg
+[HTML]: https://www.sololearn.com/Certificate/1014-1170667/jpg
 
 <h4 align="Left">life always offers you a second chance, Don't lose it</h4>
 
@@ -31,11 +37,7 @@
 [<img align="left" alt="rakeshvadnala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
-[Python]: https://storage.googleapis.com/programminghub/certificate%2F1598690435715.jpg
-[C]: https://www.sololearn.com/Certificate/1089-1170667/jpg
-[Java]: https://www.sololearn.com/Certificate/1068-1170667/jpg
-[SQL]: https://www.sololearn.com/Certificate/1060-1170667/jpg
-[HTML]: https://www.sololearn.com/Certificate/1014-1170667/jpg
+
 [website]: https://rakeshvadnala.online
 [twitter]: https://twitter.com/rakeshvadnala
 [instagram]: https://instagram.com/rakeshvadnala
