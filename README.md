@@ -11,7 +11,7 @@
 [<img align="left" alt="Java" width="22px" src="https://www.sololearn.com/Icons/Courses/1068.png" />][Java]
 [<img align="left" alt="Java" width="22px" src="https://www.sololearn.com/Icons/Courses/1060.png" />][SQL]
 [<img align="left" alt="HTML" width="22px" src="https://www.sololearn.com/Icons/Courses/1014.png" />][HTML]
-[<img align="left" alt="EH" width="22px" src="https://icon2.cleanpng.com/20180816/rcp/kisspng-security-hacker-computer-security-certified-ethica-download-geek-app-hacking-apk-for-android-android-5b757834817415.8353934415344251405303.jpg" />][EH]
+[<img align="left" alt="EH" width="22px" src="http://www.gatewaysoftwaresolutions.com/img/icon/ethical%20hacking.png" />][EH]
 [<img align="left" alt="Nmap" width="22px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2016/03/nmap.png" />][Nmap]
 [<img align="left" alt="Burpsuite" width="22px" src="https://icons.iconarchive.com/icons/goescat/macaron/256/burp-suite-icon.png" />][BS]
 [<img align="left" alt="Maltego" width="22px" src="https://www.maltego.com/img/Social%20Profile%20Pic@4x.png" />][MT]
