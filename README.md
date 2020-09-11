@@ -8,7 +8,7 @@
 <h3 align="left"> Language & Skills </h3>
 - Python
 - C
-- Java
+- Java 
 - SQL Server(SSMS)
 - Pentester 
 - Nmap
@@ -20,58 +20,15 @@
 
 <img src="http://www.hackthebox.eu/badge/image/146863" alt="Hack The Box">
 
-<div class="Sololearn">
-<img src="https://api.sololearn.com/Uploads/Avatars/1170667.jpg" alt="Rakesh@RH" height="20" width="20">
-   <p>Level: 8</p><p> 3063 XP</p>
-   <h5 class="name ">
-         Rakesh@RH
-    </h5>
-<div class="userCourses">
-<div class="courseWrapper">
-<div class="chart" data-percent="100" data-size="60" data-line="3">
+### Connect with me:
 
-<canvas height="60" width="60"></canvas></div>
-<a href="/Profile/1170667/HTML" class="course" title="HTML Fundamentals">
-<img src="/Icons/Courses/1014.png" alt="HTML Fundamentals">
-</a>
-<p class="courseXp">229 XP</p>
-</div>
-<div class="courseWrapper">
-<div class="chart" data-percent="100" data-size="60" data-line="3">
+[<img align="left" alt="rakeshvadnala.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rakeshvadnala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rakeshvadnala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rakeshvadnala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<canvas height="60" width="60"></canvas></div>
-<a href="/Profile/1170667/Java" class="course" title="Java Tutorial">
-<img src="/Icons/Courses/1068.png" alt="Java Tutorial">
-</a>
-<p class="courseXp">212 XP</p>
-</div>
-<div class="courseWrapper">
-<div class="chart" data-percent="100" data-size="60" data-line="3">
+<br />
 
-<canvas height="60" width="60"></canvas></div>
-<a href="/Profile/1170667/C" class="course" title="C Tutorial">
-<img src="/Icons/Courses/1089.png" alt="C Tutorial">
-</a>
-<p class="courseXp">204 XP</p>
-</div>
-<div class="courseWrapper">
-<div class="chart" data-percent="100" data-size="60" data-line="3">
-
-<canvas height="60" width="60"></canvas></div>
-<a href="/Profile/1170667/SQL" class="course" title="SQL Fundamentals">
-<img src="/Icons/Courses/1060.png" alt="SQL Fundamentals">
-</a>
-<p class="courseXp">173 XP</p>
-</div>
-<div class="courseWrapper">
-<div class="chart" data-percent="20.4545454545" data-size="60" data-line="3">
-
-<canvas height="60" width="60"></canvas></div>
-<a href="/Profile/1170667/Python" class="course" title="Python 3 Tutorial">
-<img src="/Icons/Courses/1073.png" alt="Python 3 Tutorial">
-</a>
-<p class="courseXp">89 XP</p>
-</div>
-
+   
 
 - 📝 [Rakesh Vadnala Blog] http://rakeshvadnala.github.io/)
