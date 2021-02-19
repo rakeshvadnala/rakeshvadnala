@@ -1,7 +1,6 @@
 <h1 align="Left"> Hi there 👋 </h1>
 <p align="centre"> I am Rakesh Vadnala. Rakesh had Strong Hands-on experience in Arduino and IoT Projects.</p>
-
-   <p align="left">Rakesh experienced in Operating Systems as Linux, Windows(Client and Server).</br> Experienced with Windows Server 2016 (Active Directory Domain Services, Group Policies, DNS, IIS, DFS, WDS, Hyper-V, and DHCP). Experienced with Cent OS 7 (Administration).
+   <p align="left">Experienced in Operating Systems as Linux, Windows(Client and Server).</br> Experienced with Windows Server 2016 (Active Directory Domain Services, Group Policies, DNS, DHCP, IIS, DFS, WDS & Hyper-V). Experienced with Cent OS 7 (Administration).
    </p>
 <img align="right" src="https://avatars.sololearn.com/8acbfd1a-9689-4d80-90ee-6a73d8e23dee.jpg" height="200" width="200" >
 
@@ -12,7 +11,7 @@
 [<img align="left" alt="Java" width="22px" src="https://www.sololearn.com/Icons/Courses/1060.png" />][SQL]
 [<img align="left" alt="HTML" width="22px" src="https://www.sololearn.com/Icons/Courses/1014.png" />][HTML]
 [<img align="left" alt="EH" width="22px" src="http://www.gatewaysoftwaresolutions.com/img/icon/ethical%20hacking.png" />][EH]
-[<img align="left" alt="Nmap" width="22px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2016/03/nmap.png" />][Nmap]
+[<img align="left" alt="Nmap" width="22px" src="https://nmap.org/images/nmap-project-logo.png" />][Nmap]
 [<img align="left" alt="Burpsuite" width="22px" src="https://icons.iconarchive.com/icons/goescat/macaron/256/burp-suite-icon.png" />][BS]
 [<img align="left" alt="Maltego" width="22px" src="https://www.maltego.com/img/Social%20Profile%20Pic@4x.png" />][MT]
 [<img align="left" alt="wireshark" width="22px" src="http://www.myiconfinder.com/uploads/iconsets/256-256-42f719a7f3f4ffb7472e66df0765eafd.png" />][WS]
