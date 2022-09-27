@@ -6,7 +6,7 @@
    <p align="left"> [<b>CyberArk Trusstee</b>, <b>Sailpoint IdentityIQ</b>, <b>Splunk SIEM 7.x</b>, <b>ISO/IEC 27001 Information Security Associate™</b>, <b>Cyber Security Foundation Professional</b>, <b>Ethical Hacker Foundation]</b> 
    </p>
    
-<img align="right" src="https://rakeshvadnala.online/0.jpg" height="200" width="200" >
+<img align="right" src="https://rakeshvadnala.github.io/0.jpg" height="200" width="200" >
 
 ### Language & Skills:
 [<img align="left" alt="Python" width="22px" src="https://www.sololearn.com/Icons/Courses/1073.png" />][Python]
@@ -27,10 +27,10 @@
 [SQL]: https://www.sololearn.com/Certificate/1060-1170667/jpg
 [HTML]: https://www.sololearn.com/Certificate/1014-1170667/jpg
 [EH]: https://storage.googleapis.com/programminghub/certificate%2F1595704979003.jpg
-[Nmap]: https://rakeshvadnala.online
-[BS]: https://rakeshvadnala.online
-[MT]: https://rakeshvadnala.online
-[WS]: https://rakeshvadnala.online
+[Nmap]: https://rakeshvadnala.github.io
+[BS]: https://rakeshvadnala.github.io
+[MT]: https://rakeshvadnala.github.io
+[WS]: https://rakeshvadnala.github.io
 
 
 
@@ -40,14 +40,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="rakeshvadnala.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rakeshvadnala.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="rakeshvadnala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rakeshvadnala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rakeshvadnala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 
-[website]: https://rakeshvadnala.online
+[website]: https://rakeshvadnala.github.io
 [twitter]: https://twitter.com/rakeshvadnala
 [instagram]: https://instagram.com/rakeshvadnala
 [linkedin]: https://linkedin.com/in/rakeshvadnala
