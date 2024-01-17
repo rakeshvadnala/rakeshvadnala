@@ -1,6 +1,6 @@
 <h1 align="Left"> Hi there 👋 </h1>
 <p align="centre"> I am Rakesh Vadnala. Rakesh had Strong Hands-on experience in Arduino and IoT Projects.</p>
-   <p align="left">Experienced in Operating Systems as Linux, Windows(Client and Server).</br> Experienced with Windows Server 2016 (Active Directory Domain Services, Group Policies, DNS, DHCP, IIS, DFS, WDS & Hyper-V). Experienced with Cent OS 7 (Administration). 
+   <p align="left">Experienced in SailPoint IIQ.</br> Experienced in Operating Systems as Linux, Windows(Client and Server).</br> Experienced with Windows Server 2016 (Active Directory Domain Services, Group Policies, DNS, DHCP, IIS, DFS, WDS & Hyper-V). Experienced with Cent OS 7 (Administration). 
    </p>
    <h2 align="Left">Certified:</h2>
    <p align="left"> [<b>CyberArk Trusstee</b>, <b>Sailpoint IdentityIQ</b>, <b>Splunk SIEM 7.x</b>, <b>ISO/IEC 27001 Information Security Associate™</b>, <b>Cyber Security Foundation Professional</b>, <b>Ethical Hacker Foundation]</b> 
