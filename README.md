@@ -9,6 +9,7 @@
 
 <p align="Left">In summary, my comprehensive experience in Arduino and IoT projects, coupled with my adeptness in managing both Windows Server 2016 and CentOS 7 environments, positions me as a skilled professional capable of addressing complex technological challenges and contributing to the success of innovative projects.</p>
 
+
 ### Language & Skills:
 [<img align="left" alt="Python" width="22px" src="https://www.sololearn.com/Icons/Courses/1073.png" />][Python]
 [<img align="left" alt="C" width="22px" src="https://www.sololearn.com/Icons/Courses/1089.png" />][C]
