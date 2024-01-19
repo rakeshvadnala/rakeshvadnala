@@ -1,14 +1,13 @@
 <h1 align="Left"> Hi there 👋 </h1>
-<p align="centre"> I am Rakesh Vadnala. Rakesh had Strong Hands-on experience in Arduino and IoT Projects.</p>
-   <p align="left">Rakesh is a seasoned professional with a wealth of expertise in SailPoint IdentityIQ, showcasing comprehensive skills in end-to-end development. His extensive background in the field positions him as a reliable and innovative contributor, adept at navigating the intricacies of identity and access management. With a proven track record in delivering successful solutions, Rakesh brings a unique blend of technical proficiency and strategic thinking to every project he undertakes. His commitment to excellence and passion for staying at the forefront of technology make him a valuable asset in the realm of identity governance and security.</br> 
-   </br>Experienced in Operating Systems as Linux, Windows(Client and Server).</br> 
-   </br>Experienced with Windows Server 2016 (Active Directory Domain Services, Group Policies, DNS, DHCP, IIS, DFS, WDS & Hyper-V). Experienced with Cent OS 7 (Administration). 
-   </p>
-   <h2 align="Left">Certified:</h2>
-   <p align="left"> [<b>CyberArk Trusstee</b>, <b>Sailpoint IdentityIQ</b>, <b>Splunk SIEM 7.x</b>, <b>ISO/IEC 27001 Information Security Associate™</b>, <b>Cyber Security Foundation Professional</b>, <b>Ethical Hacker Foundation]</b> 
-   </p>
-  
-<-- <img align="right" src="https://rakeshvadnala.github.io/0.jpg" height="200" width="200" style="border-radius: 100%; max-width: 100%;"> -->
+<p align="Left">I am Rakesh Vadnala, and I bring to the table a wealth of experience in the field of technology, particularly in Arduino and IoT projects. My hands-on experience in these areas has equipped me with the skills and knowledge to successfully design and implement innovative solutions.</p>
+
+<p align="Left">In the realm of operating systems, I possess a strong command of both Linux and Windows, encompassing client and server environments. My proficiency extends to various aspects of Windows Server 2016, where I have demonstrated expertise in managing key components such as Active Directory Domain Services, Group Policies, DNS, DHCP, IIS (Internet Information Services), DFS (Distributed File System), WDS (Windows Deployment Services), and Hyper-V.</p>
+
+<p align="Left">Within the Windows Server 2016 environment, my experience includes the configuration and maintenance of Active Directory, implementing and managing Group Policies for seamless network administration, overseeing DNS and DHCP services for efficient network communication, and managing web services through IIS. Additionally, I have a solid understanding of distributed file systems using DFS and deployment services through WDS. Moreover, my expertise extends to virtualization with Hyper-V, ensuring optimal utilization of resources and efficient management of virtual environments.</p>
+
+<p align="Left">On the Linux front, I am well-versed in CentOS 7 administration. This includes tasks such as system configuration, user management, security implementation, and overall system maintenance. My proficiency in Linux adds versatility to my skill set, allowing me to navigate and optimize diverse technological landscapes.</p>
+
+<p align="Left">In summary, my comprehensive experience in Arduino and IoT projects, coupled with my adeptness in managing both Windows Server 2016 and CentOS 7 environments, positions me as a skilled professional capable of addressing complex technological challenges and contributing to the success of innovative projects.</p>
 
 ### Language & Skills:
 [<img align="left" alt="Python" width="22px" src="https://www.sololearn.com/Icons/Courses/1073.png" />][Python]
