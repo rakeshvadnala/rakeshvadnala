@@ -1,5 +1,5 @@
 <h1 align="Left"> Hi there 👋 </h1>
-<p align="Left">I am Rakesh Vadnala, and I bring to the table a wealth of experience in the field of technology, particularly in Arduino and IoT projects. My hands-on experience in these areas has equipped me with the skills and knowledge to successfully design and implement innovative solutions.</p>
+<p align="Left">I am Rakesh Vadnala, and I bring to the table a wealth of experience in the field of IAM technology, and in Arduino and IoT projects. My hands-on experience in these areas has equipped me with the skills and knowledge to successfully design and implement innovative solutions.</p>
 
 <p align="Left">In the realm of operating systems, I possess a strong command of both Linux and Windows, encompassing client and server environments. My proficiency extends to various aspects of Windows Server 2016, where I have demonstrated expertise in managing key components such as Active Directory Domain Services, Group Policies, DNS, DHCP, IIS (Internet Information Services), DFS (Distributed File System), WDS (Windows Deployment Services), and Hyper-V.</p>
 
