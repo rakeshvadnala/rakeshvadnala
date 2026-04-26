@@ -25,7 +25,7 @@ I have good knowledge of **CyberArk PAS**, spanning Enterprise Vault, Privileged
 
 ### 🏆 Profile Trophies
 
-[![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshvadnala&layout=compact&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rakeshvadnala&theme=onedark&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
